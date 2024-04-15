@@ -1,0 +1,11 @@
+.dot {
+  height: 25px;
+  width: 25px;
+
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 10px;
+}
+.selected-dot {
+  border: 2px solid #333; /* Add a border to indicate selection */
+}

@@ -1,0 +1,7 @@
+.table-striped tbody tr:nth-of-type(odd) {
+  background: none;
+}
+
+.table-striped tbody tr:nth-of-type(even) {
+  background: #f0f5ff !important;
+}

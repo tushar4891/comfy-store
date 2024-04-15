@@ -1,0 +1,67 @@
+.cart-name {
+  letter-spacing: 0.1rem !important;
+  margin-left: 70px !important;
+}
+.dot {
+  height: 15px !important;
+  width: 15px !important;
+
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 10px;
+}
+/* .custom-selector {
+  width: 30px;
+  height: 30px !important;
+} */
+
+.custom-selector {
+  appearance: none; /* Remove default appearance */
+  width: 60px !important; /* Set desired width */
+  height: 35px; /* Set desired height */
+  /* padding: 5px; Adjust padding as needed */
+  font-size: 14px; /* Set desired font size */
+  border: 1px solid #ccc; /* Add border for better visibility */
+  border-radius: 5px; /* Optional: Add border radius */
+}
+
+/* Style arrow icon (optional) */
+/* .custom-selector::after {
+  content: "\25BC"; 
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  transform: translateY(-50%);
+} */
+
+/* Style options (optional) */
+.custom-selector option {
+  font-size: 13px !important; /* Set desired font size for options */
+}
+
+.middle-col {
+  margin-left: 40px;
+}
+/* .last-col {
+  margin-left: 0px;
+  margin-top: 15px;
+} */
+
+.custom-subtotal {
+  margin-left: -150px !important;
+  /* border: 1px solid #ccc; */
+  border-radius: 20px !important;
+  background-color: #eef4fe;
+  /* box-shadow: 5px 5px lightblue; */
+  height: 250px;
+}
+.custom-font {
+  font-size: small;
+}
+
+.custom-font1 {
+  font-size: medium;
+}
+/* .custom-border {
+  margin-top: -15px !important;
+} */

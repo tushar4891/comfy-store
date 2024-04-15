@@ -1,0 +1,15 @@
+.carousel .carousel-item {
+  height: 300px;
+}
+
+.carousel-item img {
+  position: absolute;
+  object-fit: cover;
+  top: 0;
+  left: 0;
+  height: 300px;
+  border-radius: 15px !important;
+}
+.carousel-margin {
+  margin-left: 200px !important;
+}

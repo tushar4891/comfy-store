@@ -1,13 +1,25 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.align-items {
+  /* display: flex;
+  align-items: center;
+  justify-content: center; */
 }
+.dropdown1 {
+  /* width: 20px; */
+}
+/* .light-theme {
+  --bg-color: #ffffff !important;
+  --text-color: #333333 !important;
+  --heading-color: #444444 !important;
+}
+.dark-theme {
+  --bg-color: #333333 !important;
+  --text-color: #ffffff !important;
+  --heading-color: #dddddd !important;
+} */
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.navbar-clr {
+  background-color: #eef4fe;
 }
+/* .card-title {
+  text-decoration: none;
+} */
